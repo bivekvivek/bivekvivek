@@ -2,7 +2,7 @@
 
 <h1 align="center"> नमस्ते (Namaste), I'm Bivek Jaiswal <img src="https://raw.githubusercontent.com/bivekvivek/bivekvivek/main/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">A passionate Android & Web developer from Nepal <img src="https://raw.githubusercontent.com/bivekvivek/bivekvivek/main/flag.jpg" width="30px"> ></h3>
+<h3 align="center">A passionate Android & Web developer from Nepal <img src="https://raw.githubusercontent.com/bivekvivek/bivekvivek/main/flag.jpg" width="50px"></h3>
 
 - 🌱 I’m currently learning **FLutter**
 
