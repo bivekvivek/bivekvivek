@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Android & Web developer from Nepal ❤ </h3>
 
-- 🌱 I’m currently learning **FLutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **an Android/IOS App**
 
