@@ -4,15 +4,15 @@
 
 <h3 align="center">A passionate Android & Web developer from Nepal ❤</h3>
 
-![age](https://img.shields.io/badge/age-25-blue?style=for-the-badge&logo=appveyor)
-![focus](https://img.shields.io/badge/focus-Flutter-brightgreen?style=for-the-badge&logo=appveyor)
-![living](https://img.shields.io/badge/living-Bangalore-red?style=for-the-badge&logo=appveyor)
-
 - 🌱 I’m currently learning **FLutter**
 
 - 👯 I’m looking to collaborate on **an Android/IOS App**
 
 - 📫 How to reach me **follow me on [Instagram](https://www.instagram.com/swaggervivek) or mail me on bivekvivek@gmail.com**
+
+![age](https://img.shields.io/badge/age-25-blue?style=for-the-badge&logo=appveyor)
+![focus](https://img.shields.io/badge/focus-Flutter-brightgreen?style=for-the-badge&logo=appveyor)
+![living](https://img.shields.io/badge/living-Bangalore-red?style=for-the-badge&logo=appveyor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
