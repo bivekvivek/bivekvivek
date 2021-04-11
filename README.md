@@ -16,7 +16,7 @@
 ![focus](https://img.shields.io/badge/focus-Flutter-blueviolet?style=for-the-badge&logo=appveyor)
 ![living](https://img.shields.io/badge/living-Bangalore-red?style=for-the-badge&logo=appveyor)
 
- 	&#9749; Connect With Me ❤️ :
+ Connect With Me ❤️ :
 <p align="left">
 <a href="https://twitter.com/bivekvivek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bivekvivek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bivekvivek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bivekvivek" height="30" width="40" /></a>
