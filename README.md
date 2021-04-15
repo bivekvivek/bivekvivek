@@ -26,7 +26,7 @@
 
 💻 My Skills :
 
-<p>
+
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
@@ -45,7 +45,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092e20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003b57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
-</p>
+
 
 Tools I Use 🔧🔨
 
