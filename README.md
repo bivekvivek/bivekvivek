@@ -65,6 +65,6 @@ OS:
 <p>
  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bivekvivek&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,C70039,581845" alt="bivekvivek" /> 
  
- <img width="65%" align="right" src="https://github-readme-stats.vercel.app/api?username=bivekvivek&show_icons=true&bg_color=30,C70039,581845&title_color=fff&text_color=fff" alt="bivekvivek" />
+ <img width="65%" height="110%" align="right" src="https://github-readme-stats.vercel.app/api?username=bivekvivek&show_icons=true&bg_color=30,C70039,581845&title_color=fff&text_color=fff" alt="bivekvivek" />
 </p>
 
