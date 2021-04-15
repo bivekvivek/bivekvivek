@@ -68,13 +68,6 @@ OS:
  <img width="65%" align="right" src="https://github-readme-stats.vercel.app/api?username=bivekvivek&show_icons=true&bg_color=30,C70039,581845&title_color=fff&text_color=fff" alt="bivekvivek" />
 </p>
 
-
-<p>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bivekvivek&" alt="bivekvivek" />
-</p>
-
-
-
 ⏰ This Week I Spent My Time On: 
 
 ```text
