@@ -68,12 +68,3 @@ OS:
  <img width="65%" align="right" src="https://github-readme-stats.vercel.app/api?username=bivekvivek&show_icons=true&bg_color=30,C70039,581845&title_color=fff&text_color=fff" alt="bivekvivek" />
 </p>
 
-⏰ This Week I Spent My Time On: 
-
-```text
-Flutter    13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-Dart       5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Python     4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Javascrip  1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-HTML       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
