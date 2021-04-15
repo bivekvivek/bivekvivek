@@ -19,7 +19,7 @@
  Connect With Me ❤️ :
 <p align="left">
 <a href="https://twitter.com/bivekvivek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bivekvivek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bivekvivek" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/579-5792572_linkedin-logo-png-linkedin-logo-svg-transparent-png.png" alt="bivekvivek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bivekvivek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/480px-Linkedin_icon.svg.png" alt="bivekvivek" height="30" width="40" /></a>
 <a href="https://fb.com/VivekSwagger69" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" alt="vivekswagger69" height="30" width="40" /></a>
 <a href="https://instagram.com/swaggervivek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="bivekvivek" height="30" width="40" /></a>
 </p>
