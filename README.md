@@ -12,7 +12,7 @@
 
 
 ![age](https://img.shields.io/badge/age-26-blue?style=for-the-badge&logo=appveyor)
-![degree](https://img.shields.io/badge/degree-B.E%20ISE-black?style=for-the-badge&logo=appveyor)
+![degree](https://img.shields.io/badge/degree-B.E%20ISE-purple?style=for-the-badge&logo=appveyor)
 ![focus](https://img.shields.io/badge/focus-Flutter-blueviolet?style=for-the-badge&logo=appveyor)
 ![living](https://img.shields.io/badge/living-Bangalore-red?style=for-the-badge&logo=appveyor)
 
