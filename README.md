@@ -11,10 +11,10 @@
 - 📫 How to reach me **follow me on [Instagram](https://www.instagram.com/swaggervivek) or mail me on bivekvivek@gmail.com**
 
 
-![age](https://img.shields.io/badge/age-26-blue?style=for-the-badge&logo=appveyor)
+![age](https://img.shields.io/badge/age-27-blue?style=for-the-badge&logo=appveyor)
 ![degree](https://img.shields.io/badge/degree-B.E%20ISE-purple?style=for-the-badge&logo=appveyor)
 ![focus](https://img.shields.io/badge/focus-Flutter-blueviolet?style=for-the-badge&logo=appveyor)
-![living](https://img.shields.io/badge/living-Bangalore-red?style=for-the-badge&logo=appveyor)
+![living](https://img.shields.io/badge/living-London-red?style=for-the-badge&logo=appveyor)
 
  Connect With Me ❤️ :
 <p align="left">
